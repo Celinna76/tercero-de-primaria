@@ -1,1 +1,5 @@
-
+{
+  "name": "Guía de Alimentos Saludables para Niños",
+  "description": "Una página web interactiva y divertida para que los niños aprendan sobre la alimentación saludable, basada en la pirámide alimenticia.",
+  "requestFramePermissions": []
+}
